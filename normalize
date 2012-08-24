@@ -1,0 +1,6 @@
+#!/bin/sh
+xrandr -o 0
+xsetwacom set 10 Rotate 0
+xsetwacom set 11 Rotate 0
+xsetwacom set 16 Rotate 0
+gnome-shell --replace &

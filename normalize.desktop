@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Name=Normalize
+Comment=Rights the X230 tablet screen
+Categories=GTK;GNOME;
+Exec=normalize
+Icon=go-up-symbolic
+StartupNotify=true
+Terminal=false
+Type=Application
+X-GNOME-FullName=Right X230 tablet screen

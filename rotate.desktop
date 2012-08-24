@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Name=Rotate
+Comment=Rotates the X230 tablet screen
+Categories=GTK;GNOME;
+Exec=rotate
+Icon=edit-redo-symbolic
+StartupNotify=true
+Terminal=false
+Type=Application
+X-GNOME-FullName=Rotate X230 tablet screen
